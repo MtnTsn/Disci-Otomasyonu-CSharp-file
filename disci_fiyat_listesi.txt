@@ -1,0 +1,33 @@
+0|KIRIK TEDAVISI|20|
+1|APIKAL APSE|30|
+2|KIRIK VEYA DUSMUS DOLGU|20|
+3|KOK|30|
+4|KOK ANKERI|20|
+5|KOK REZORBSIYONU|40|
+6|KANAL TEDAVISI YAPILMIS|50|
+7|LUXE DIS|60|
+8|MINE HIPOLAZISI|90|
+9|PERIODONTAL FISTUL|50|
+10|PERIODONTOL APSE|40|
+11|PULPITIS|35|
+12|APIKAL KIST|45|
+13|YUMUSAK DOKU LEZYONU|55|
+14|KIRIK SERVIKAL|15|
+15|KIRIK DISTAL|60|
+16|KIRIK MESSIAL|45|
+17|KIRIK O|68|
+18|KIRIK LINGUAL|85|
+19|KIRIK BUCCAL|75|
+20|APIKAL REZEKSIYON|99|
+21|CENE KIRIGI|55|
+22|Amalgam dolgu (bir yüzlü)|63|
+23|Amalgam dolgu (iki yüzlü)|42|
+24|Amalgam dolgu (üç yüzlü)|52|
+25|Kanal tedavisi - Tek kanal(dolgu  hariç)|100|
+26|Kanal tedavisi - Iki kanal(dolgu  hariç)|120|
+27|Kanal tedavisi - Uç kanal(dolgu  hariç)|120|
+28|Kanal Tedavisi - Ilave her kanal için|80|
+29|Dolgu (restorasyon) tamiri|90|
+30|Dolgu sökümü (tek diþ)|90|
+31|Kanal dolgusu sökümü|90|
+32|Diþ çekimi|30|

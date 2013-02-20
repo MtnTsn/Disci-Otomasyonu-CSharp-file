@@ -1,0 +1,19 @@
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\bin\Debug\Ana_Sayfa.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\bin\Debug\Ana_Sayfa.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\Ana_Sayfa.exe
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\Ana_Sayfa.pdb
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.AnamnezFormu.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.CariBilgiler.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.RandevuListeleme.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.Randevu_Verme.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\WindowsFormsApplication1.Tedavi.resources
+C:\Users\HP\Documents\Visual Studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Debug\GenerateResource.read.3.tlog
+C:\Documents and Settings\ercan\Belgelerim\Dropbox\Projeler\Veri Yönetimi ve Dosya Yapısı\disci_son_hali\Ana_Sayfa\obj\x86\Debug\Ana_Sayfa.exe
+C:\Documents and Settings\ercan\Belgelerim\Dropbox\Projeler\Veri Yönetimi ve Dosya Yapısı\disci_son_hali\Ana_Sayfa\obj\x86\Debug\Ana_Sayfa.pdb

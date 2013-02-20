@@ -1,0 +1,16 @@
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\bin\Release\Ana_Sayfa.exe
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\bin\Release\Ana_Sayfa.pdb
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.AnamnezFormu.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.CariBilgiler.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.Form2.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.Form3.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.RandevuListeleme.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.Randevu_Verme.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\WindowsFormsApplication1.Tedavi.resources
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\Ana_Sayfa.exe
+C:\Users\HP\documents\visual studio 2010\Projects\Ana_Sayfa\Ana_Sayfa\obj\x86\Release\Ana_Sayfa.pdb

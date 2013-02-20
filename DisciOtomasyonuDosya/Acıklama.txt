@@ -1,0 +1,23 @@
+
+			COBÝS
+
+Proje :  Diþçi otomasyonu Dosyalama mantýðý
+
+
+Projemiz kaynak kalsorunde bulunan fiyat.txt dosyasýný proje calýstýktan sonra 
+hasta kaydý yapar yapmaz c dizini altýnda disci adýnda klasor oluþturup
+bu klasorun altýnda bilgileri tutmaktadýr.
+Fiyat.txt dosyasý yapýlan iþlemlerin fiyatlarýný tutmaktadýr bu yuzden c-->disci-->buraya koyunuz.
+
+Proje çalýþanlarý;
+
+Mustafa ÖZCAN
+Yeþim Deðirmenci
+Azmi ÞENGÜL
+Sezen AKSAKAL
+Ercan PINAR
+
+Grup sözcüsü:Ercan PINAR
+
+
+Saygýlar..Cobis Grubu
